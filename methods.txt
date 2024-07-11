@@ -1,0 +1,59 @@
+--Topics to learn--
+
+--list--
+append(): Adds an item to the end of the list.
+extend(): Adds all items of an iterable to the end of the list.
+insert(): Inserts an item at a specified position.
+remove(): Removes the first occurrence of an item.
+pop(): Removes and returns an item at a specified position.
+clear(): Removes all items from the list.
+index(): Returns the index of the first occurrence of an item.
+count(): Returns the number of occurrences of an item.
+sort(): Sorts the list in place.
+reverse(): Reverses the list in place.
+copy(): Returns a shallow copy of the list.
+
+
+--sets--
+
+// when we sort a set it will converts to a list
+add(): Adds an element to the set.
+clear(): Removes all elements from the set.
+copy(): Returns a shallow copy of the set.
+difference(): Returns the difference of two or more sets.
+difference_update(): Updates the set with the difference of itself and another set.
+discard(): Removes an element from the set if it is present.
+intersection(): Returns the intersection of two or more sets.
+intersection_update(): Updates the set with the intersection of itself and another set.
+isdisjoint(): Returns True if two sets have no elements in common.
+issubset(): Returns True if the set is a subset of another set.
+issuperset(): Returns True if the set is a superset of another set.
+pop(): Removes and returns an arbitrary element from the set.
+remove(): Removes an element from the set, raises KeyError if not found.
+symmetric_difference(): Returns the symmetric difference of two sets.
+symmetric_difference_update(): Updates the set with the symmetric difference of itself and another set.
+union(): Returns the union of sets.
+update(): Updates the set with the union of itself and others.
+
+--dict--
+
+clear(): Removes all items from the dictionary.
+copy(): Returns a shallow copy of the dictionary.
+fromkeys(): Creates a dictionary from a sequence of keys.
+get(): Returns the value for a key, or a default value if the key is not found.
+items(): Returns a view object of the dictionary's items (key-value pairs).
+keys(): Returns a view object of the dictionary's keys.
+pop(): Removes and returns the value for a specified key.
+popitem(): Removes and returns the last inserted key-value pair.
+setdefault(): Returns the value for a key, and sets it to a default value if the key is not found.
+update(): Updates the dictionary with key-value pairs from another dictionary or iterable.
+values(): Returns a view object of the dictionary's values.
+
+--tuple--
+
+count(): Returns the number of occurrences of a value.
+index(): Returns the index of the first occurrence of a value
+
+--string--
+
+
